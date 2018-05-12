@@ -1,0 +1,41 @@
+_repo: More-Russian-Picture-Tales_23462
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Forbes, Nevill
+    birthdate: 1883
+    deathdate: 1929
+    gutenberg_agent_id: '4076'
+    url: http://www.gutenberg.org/2009/agents/4076
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Karrik, Valerian Viliamovich
+    alias: Carrick, Valery
+    birthdate: 1869
+    deathdate: 1942
+    gutenberg_agent_id: '25858'
+    url: http://www.gutenberg.org/2009/agents/25858
+description: ''
+gutenberg_bookshelf:
+- Folklore
+- Children's Picture Books
+- Children's Myths, Fairy Tales, etc.
+gutenberg_issued: '2007-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23462'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- Russia'
+- !lcc 'PZ'
+tableOfContents: The Cock and the Bean -- The Goat and the Ram -- The Hungry Wolf
+  -- The Peasant and the Bear -- The Dog and the Cock -- King Frost -- The Bear's
+  Paw -- The Bear and the Old Man's Daughters -- The Straw Ox -- The Fox and the Blackbird.
+title: More Russian Picture Tales
+url: http://www.gutenberg.org/ebooks/23462
